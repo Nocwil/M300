@@ -1,0 +1,8 @@
+# Windsurf IDE configuration
+.windsurf/
+
+# Learning materials update file
+M300-course_material/M300-Lernziele_Updated.txt
+
+# Session progress tracking
+session-progress.md
