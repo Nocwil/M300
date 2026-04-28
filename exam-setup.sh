@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Make executable: chmod +x exam-setup.sh
+# Then run it: ./exam-setup.sh
+
 set -e  # Exit on error
 
 # Update package list
@@ -51,8 +54,4 @@ echo "  1. Open MarkText from applications menu"
 echo "  2. File → Open → Navigate to ~/m300/cheat-sheets/"
 echo "  3. Open 00-MASTER-EXAM-CHEAT-SHEET.md"
 echo ""
-echo "Or from terminal:"
-echo "  marktext ~/m300/cheat-sheets/00-MASTER-EXAM-CHEAT-SHEET.md"
-echo ""
-echo "Good luck on your exam!"
-echo ""
+
