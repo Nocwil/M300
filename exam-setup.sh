@@ -1,7 +1,6 @@
 #!/bin/bash
 
-# Make executable: chmod +x exam-setup.sh
-# Then run it: ./exam-setup.sh
+# Make executable and run. Copy-paste: chmod +x exam-setup.sh && ./exam-setup.sh
 
 set -e  # Exit on error
 
